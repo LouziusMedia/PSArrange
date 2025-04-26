@@ -159,7 +159,7 @@ Feel free to open an issue on GitHub if you find bugs or have suggestions for im
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) 2025 Louis Ricardo Bührig
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
