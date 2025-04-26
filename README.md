@@ -1,3 +1,5 @@
+![PSArrange_Logo](https://github.com/user-attachments/assets/fcdf715b-e427-47df-8e13-20161a944e60)
+
 # PSArrange
 
 **Tidy up your directories effortlessly with rule-based organization!**
